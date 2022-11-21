@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caleb Mcfarland
 - 👀 I’m interested in Software enginnering 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, JavaScript, Html, Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Caleb.mcfarland101@gmail.com
 
